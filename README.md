@@ -14,7 +14,7 @@ Packages:
 3. java.util.Collections
 
 Usage:
-This code creates a Stack that asks the user for integers, stores them, and prints them in a sorted format.
+This code creates a Linked List that asks the user for integers, stores them, and prints them in a sorted format.
 
 ## Module 5 Project: JasonComoModule5Project.java
 Packages:
@@ -23,7 +23,7 @@ Packages:
 3. java.util.Collections;
 
 Usage:
-This code creates a Linked List that asks the user for integers, stores them, and prints them in a sorted format.
+This code creates a Stack that asks the user for integers, stores them, and prints them in a sorted format.
 
 ## Installation
 Both files require the user to download Java to their device. To run from the terminal, the user needs to:
