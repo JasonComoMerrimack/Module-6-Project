@@ -18,9 +18,9 @@ This code creates a Stack that asks the user for integers, stores them, and prin
 
 ## Module 5 Project: JasonComoModule5Project.java
 Packages:
-1.
-2.
-3.
+1. java.util.Stack;
+2. java.util.Scanner;
+3. java.util.Collections;
 
 Usage:
 This code creates a Linked List that asks the user for integers, stores them, and prints them in a sorted format.
