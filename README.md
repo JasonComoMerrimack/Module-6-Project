@@ -30,6 +30,7 @@ Both files require the user to download Java to their device. To run from the te
 1. Navigate to the file's directory on the device.
 2. Compile using "javac filename.java"
 3. Run using "java filename.java"
+   
 The files can also be ran using an IDE of the user's choice.
 
 ## Contact
