@@ -1,4 +1,4 @@
-### Module 6
+# Module 6
 This repository represent's Module 6's project, where we were assigned to pack Module 4 and 5's projects into this repository. 
 
 ## Table of Contents 
@@ -9,12 +9,20 @@ This repository represent's Module 6's project, where we were assigned to pack M
 
 ## Module 4: JasonComoModule4Project.java
 Packages: 
-1. 
+1. java.util.LinkedList
+2. java.util.Scanner
+3. java.util.Collections
 
 Usage:
 This code creates a Stack that asks the user for integers, stores them, and prints them in a sorted format.
 
 ## Module 5 Project: JasonComoModule5Project.java
+Packages:
+1.
+2.
+3.
+
+Usage:
 This code creates a Linked List that asks the user for integers, stores them, and prints them in a sorted format.
 
 ## Installation
