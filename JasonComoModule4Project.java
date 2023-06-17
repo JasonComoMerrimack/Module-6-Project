@@ -9,7 +9,7 @@ public class JasonComoModule4Project {
     /**
      * main method that prompts for inputs, asks if the user
      * wants to continue adding them, and stores them in a sorted
-     * linked list.
+     * Linked List.
      * @param args default parameter as the code needs no parameters.
     */
     public static void main(String[] args) {
